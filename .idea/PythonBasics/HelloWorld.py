@@ -10,5 +10,5 @@ print ("Hello" + ", World")
 greeting = "hello"
 name = "Travis"
 print (greeting + name)
-# if we want a spac, we can add that too ' ' 
+# if we want a spac, we can add that too ' '
 print (greeting + ' ' + name)
